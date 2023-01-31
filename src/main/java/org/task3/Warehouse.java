@@ -1,4 +1,4 @@
-package org.example;
+package org.task3;
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.Behavior;
 import akka.actor.typed.javadsl.AbstractBehavior;
@@ -6,7 +6,6 @@ import akka.actor.typed.javadsl.ActorContext;
 import akka.actor.typed.javadsl.Behaviors;
 import akka.actor.typed.javadsl.Receive;
 
-import java.text.Format;
 import java.time.Duration;
 import java.time.Instant;
 

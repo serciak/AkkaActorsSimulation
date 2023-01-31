@@ -1,4 +1,4 @@
-package org.example;
+package org.task3;
 
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.Behavior;
@@ -7,7 +7,6 @@ import akka.actor.typed.javadsl.ActorContext;
 import akka.actor.typed.javadsl.Behaviors;
 import akka.actor.typed.javadsl.Receive;
 
-import java.sql.SQLOutput;
 import java.time.Duration;
 import java.util.HashMap;
 import java.util.Map;
